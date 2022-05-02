@@ -113,4 +113,4 @@ class ProductionAnalysis():
 if __name__ == '__main__':
     TestAnalysis()
     ProductionAnalysis()
-    #CommitAnalysis()
+    CommitAnalysis()
