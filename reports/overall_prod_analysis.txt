@@ -1,0 +1,6 @@
+
+Total Number of Prod Files = 115730
+
+Total Number of Assert Statements in Prod Files = 67814
+
+Total Number of Debug Statements in Prod Files = 8869
